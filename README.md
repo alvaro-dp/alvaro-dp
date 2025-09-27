@@ -3,7 +3,7 @@
 <div class="header">
   <h1>Hola, soy {Alvaro} 👋</h1>
   <p style="font-size: 1.2em; color: #34495e;">
-    Ingeniero en Sistemas Computacionales con experiencia en Desarrollo Web y Gestión de Proyectos.
+    Ingeniero en Sistemas Computacionales con experiencia en Desarrollo Web y Gestión de Proyectos. He desarrollado interfaces de usuario (UI) interactivas y funcionales usando <b>JavaScript (ES6+)</b> y <b>React.js</b>. Trabajé en componentes reutilizables y gestioné la documentación técnica bajo metodologías ágiles <b>Scrum</b>, lo que me permite participar en todas las etapas de un proyecto.
   </p>
 
   <div class="contact-info">
@@ -29,60 +29,47 @@
 </div>
 <br>
 
-<h2 class="section-title">📋 Perfil Profesional</h2>
-<p>Ingeniero en Sistemas con experiencia en desarrollo Front-End. He desarrollado interfaces de usuario (UI) interactivas y funcionales usando **JavaScript (ES6+)**, **HTML5**, **CSS3** y **React.js**. Trabajé en componentes reutilizables y gestioné la documentación técnica bajo metodologías ágiles (**Scrum**), lo que me permite participar en todas las etapas de un proyecto.</p>
-
 ---
 
-<h2 class="section-title">💼 Experiencia Laboral</h2>
-<div></p>Asistente Técnico de Desarrollo (Vinculación) - FUNDACIÓN A.M.A | Guayaquil, jun 2024 - sep 2024</p>
-<details>*Participé en la documentación técnica y funcional para el desarrollo de una aplicación web.<br>
-* Colaboré en la selección de hosting, asegurando la alineación con los requerimientos de despliegue.<br>
-* Trabajé con equipos de desarrollo para garantizar la correcta implementación de las soluciones UI/UX.
-</div>
-<br>
-
-<div><p>Apoyo Administrativo (PPP) - Universidad de Guayaquil | Guayaquil, mar 2024 - jun 2024</p>
-<details>*Gestioné la carga de documentos en plataformas digitales para mejorar su organización y accesibilidad.<br>
-* Corregí y formateé documentos siguiendo estándares de estilo APA, demostrando atención al detalle.<br>
-* Digitalicé y organicé el inventario de libros utilizando hojas de cálculo (**Excel**), mejorando el acceso a la información.
-</div>
-
-  
----
-
-<h2 class="section-title">💡 Proyectos Destacados</h2>
+<h2 class="section-title">💡 Proyectos</h2>
 
 <div class="project-item">
-    <h3>Proyecto de Titulación: Prototipo Web para Evaluación de la Pertinencia Educativa</h3>
-    <details><p>Aplicación web basada en componentes reutilizables de React, implementando una interfaz intuitiva y escalable. Utiliza **React.js** y se conecta a un backend en **ASP.NET Core** con **Microsoft SQL Server**.</p>
+    <p><b>Proyecto de Titulación: Prototipo Web para Evaluación de la Pertinencia Educativa</b></p>
+    <details><p><b>Descripción:</b> Aplicación web basada en componentes reutilizables de React. Implementando una interfaz intuitiva y escalable con módulos personalizados.<br>
+<b>Metodología:</b> Marco de trabajo Scrum. <br>
+<b>Tecnologías:</b> React.js (Front-End), ASP.NET Core (Back-End), Microsoft SQL Server.</p>
     <div class="project-links">
-        🔗 <a href="[LINK-AL-REPOSITORIO]" target="_blank">Ver Repositorio</a> 
-        🖥️ <a href="[LINK-A-LA-DEMO]" target="_blank">Ver Demo (si aplica)</a>
+        🔗 <a href="https://github.com/alvaro-dp/Trabajo-de-Titulacion" target="_blank">Ver Repositorio</a> 
+        <!--🖥️ <a href="[LINK-A-LA-DEMO]" target="_blank">Ver Demo</a> -->
     </div>
 </div>
 
 <div class="project-item">
-    <h3>Proyecto de Certificación: Quiz Interactivo</h3>
-    <details><p>Aplicación web interactiva que presenta un quiz de opción múltiple. Gestiona el estado y la puntuación del usuario en tiempo real usando lógica nativa de **JavaScript (Manipulación del DOM)** con **Bootstrap** para el estilo.</p>
+    <p><b>Proyectos de Certificación: Cash Register, RPG Creature Search App, Quiz Interactivo</b></p>
+    <details><p><b>Cash Register (Caja Registradora):</b> Implementación de una caja registradora utilizando JavaScript puro y lógica de Algoritmos y Estructuras de Datos. El proyecto determina si el cambio es posible, calcula la cantidad de billetes y monedas necesarios, y gestiona el estado del dinero en caja (Closed, Open, Insufficient Funds). <br>
+     <b>RPG Creature Search App:</b> Aplicación de búsqueda y filtrado desarrollada con JavaScript, HTML, y CSS. Se centra en la Manipulación del DOM para crear una interfaz dinámica y reactiva que permite a los usuarios buscar y mostrar información de criaturas de rol basadas en criterios específicos <br>
+      <b>Quiz Interactivo: </b>Aplicación web interactiva que presenta un quiz de opción múltiple. Gestiona el estado y la puntuación del usuario en tiempo real usando lógica nativa de JavaScript (Manipulación del DOM) con Bootstrap para el estilo.</p>
     <div class="project-links">
-        🔗 <a href="[LINK-AL-REPOSITORIO]" target="_blank">Ver Repositorio</a> 
-        🖥️ <a href="[LINK-A-LA-DEMO]" target="_blank">Ver Demo (si aplica)</a>
+        🔗 <a href="https://github.com/alvaro-dp/Certification-Project-JavaScript" target="_blank">Ver Repositorio</a> 
+        <!--🖥️ <a href="[LINK-A-LA-DEMO]" target="_blank">Ver Demo</a>-->
     </div>
 </div>
 
-
-
 ---
 
-<h2 class="section-title">🎓 Formación Académica</h2>
-**Ingeniería en Sistemas Computacionales** - Universidad de Guayaquil (2017-2025) <br>
-**Certificación: JavaScript Algorithms and Data Structures** - freeCodeCamp, USA (jun 2025 - septiembre 2025) <br>
-**Certificación: Back End Development and APIs** - freeCodeCamp, USA (en curso)
+<h2 class="section-title">🎓 Formación Académica y Certificados</h2>
+<p><b>Ingeniería en Sistemas Computacionales</b> - Universidad de Guayaquil (2017-2025) | 
+  <a href="https://drive.google.com/file/d/1KdCzktiuoCaou8Ecz7S0HAUrMFkSoE8c/view?usp=sharing" target="_blank">Ver Título</a></p>
+<p><b>Bachiller en Ciencias</b> - Unidad Educativa Fiscal Transito Amaguaña (2011-2017) | 
+  <a href="https://servicios.educacion.gob.ec/titulacion25-web/faces/paginas/consulta-titulos-refrendados.xhtml" target="_blank">Ver Título</a></p>
 
-<h3 style="color: #34495e;">🔗 Enlaces a Certificados (Si Completados)</h3>
-<ul>
-    <li><a href="[LINK-AL-CERTIFICADO-FCC-1]" target="_blank">Ver Certificado de JavaScript Algorithms</a> (freeCodeCamp)</li>
-    <li><a href="[LINK-AL-CERTIFICADO-FCC-2]" target="_blank">Ver Certificado de Back End Development</a> (freeCodeCamp)</li>
-    </ul>
-</div>
+
+<h3>Certificados: </h3>
+
+<p><b>Certificación: Back End Development and APIs</b> - freeCodeCamp, USA | (en curso) 
+  <!--<a href="https://www.freecodecamp.org/certification/alvaro-dp/javascript-algorithms-and-data-structures-v8" target="_blank">Ver Título</a>--></p>
+<p><b>Certificación: Certificación: JavaScript Algorithms and Data Structures</b> - freeCodeCamp, USA | (junio 2025 - septiembre 2025) 
+  <a href="https://www.freecodecamp.org/certification/alvaro-dp/javascript-algorithms-and-data-structures-v8" target="_blank">Ver Certificado</a></p>
+  <p><b>Certificación: Mantenimiento y Ensamblaje</b> - O@SIS, FCMF, UG | (febrero, 2023-marzo, 2023) 
+  <a href="https://drive.google.com/file/d/124HlFPN73u8tD_uyD-adUa_QTqLS3rZC/view?usp=sharing" target="_blank">Ver Certificado</a></p>
+ 
