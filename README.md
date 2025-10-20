@@ -34,13 +34,24 @@
 <h2 class="section-title">💡 Proyectos</h2>
 
 <div class="project-item">
+    <p><b>Sistema de Gestión de Usuarios y Dashboard (DEPLOYED)</b></p>
+    <details><p><b>Descripción:</b> Aplicación web con CRUD completo y Dashboard de estadísticas visuales mediante Chart.js.<br>
+    <b>Logros:</b> Implementé la lógica CRUD con JavaScript (ES6) y el manejo de asincronía (async/await), y logré el despliegue a producción del proyecto.. <br>
+    <b>Tecnologías:</b> JavaScript, Chart.js, Bootstrap 5, LocalStorage.</p>
+    <div class="project-links">
+        🔗 <a href="https://github.com/alvaro-dp/gestion-de-usuarios" target="_blank">Ver Repositorio</a> 
+        🖥️ <a href="https://alvaro-dp.github.io/gestion-de-usuarios/" target="_blank">Ver Demo</a>
+    </div>
+</div>
+
+<div class="project-item">
     <p><b>Proyecto de Titulación: Prototipo Web para Evaluación de la Pertinencia Educativa</b></p>
-    <details><p><b>Descripción:</b> Aplicación web basada en componentes reutilizables de React. Implementando una interfaz intuitiva y escalable con módulos personalizados.<br>
-<b>Metodología:</b> Marco de trabajo Scrum. <br>
-<b>Tecnologías:</b> React.js (Front-End), ASP.NET Core (Back-End), Microsoft SQL Server.</p>
+    <details><p><b>Descripción:</b> Desarrollo Front-End con React.js y componentes reutilizables bajo el Marco de Trabajo SCRUM.s.<br>
+    <b>Logros:</b> Creación de una Single Page Application (SPA) con un dashboard dinámico y consumo de APIs RESTful para la gestión segura de datos (autenticación basada en roles). <br>
+    <b>Tecnologías:</b> React.js (Front-End), ASP.NET Core (Back-End), Microsoft SQL Server.</p>
     <div class="project-links">
         🔗 <a href="https://github.com/alvaro-dp/Trabajo-de-Titulacion" target="_blank">Ver Repositorio</a> 
-        <!--🖥️ <a href="[LINK-A-LA-DEMO]" target="_blank">Ver Demo</a> -->
+        🖥️ <a href="https://trabajo-de-titulacion-ug-2025.vercel.app/login" target="_blank">Ver Demo</a>
     </div>
 </div>
 
