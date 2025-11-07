@@ -7,7 +7,7 @@
   </p>
 
   <div class="contact-info">
-    <a href="https://ec.linkedin.com/in/alvaro-de-la-a-prudente-682b52259" target="_blank">
+    <a href="https://www.linkedin.com/in/alvaro-delaa-prudente/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:alvarodelaap.9@gmail.com">
@@ -77,10 +77,12 @@
 
 <h3>Certificados: </h3>
 
-<p><b>Certificación: Back End Development and APIs</b> - freeCodeCamp, USA | (en curso) 
+<p><b>Certificación: Certificación: Python para Ciencia de Datos, IA y Desarrollo</b> - Coursera, IBM | (en curso) 
   <!--<a href="https://www.freecodecamp.org/certification/alvaro-dp/javascript-algorithms-and-data-structures-v8" target="_blank">Ver Título</a>--></p>
 <p><b>Certificación: Certificación: JavaScript Algorithms and Data Structures</b> - freeCodeCamp, USA | (junio 2025 - septiembre 2025) 
   <a href="https://www.freecodecamp.org/certification/alvaro-dp/javascript-algorithms-and-data-structures-v8" target="_blank">Ver Certificado</a></p>
+ <p><b>Certificación: Certificación: Introducción a Data Science: Programación Estadística con R</b> - Coursera, Universidad Nacional Autónoma de México | (marzo 2025 - mayo 2025)  
+  <a href="https://www.coursera.org/account/accomplishments/verify/OCPTQDKHJZ7Q" target="_blank">Ver Certificado</a></p>
   <p><b>Certificación: Mantenimiento y Ensamblaje</b> - O@SIS, FCMF, UG | (febrero, 2023-marzo, 2023) 
   <a href="https://drive.google.com/file/d/124HlFPN73u8tD_uyD-adUa_QTqLS3rZC/view?usp=sharing" target="_blank">Ver Certificado</a></p>
  
