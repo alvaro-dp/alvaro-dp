@@ -3,7 +3,7 @@
 <div class="header">
   <h1>Hola, soy {Alvaro} 👋</h1>
   <p style="font-size: 1.2em; color: #34495e;">
-    Ingeniero en Sistemas Computacionales con experiencia en Desarrollo Web y Gestión de Proyectos. He desarrollado interfaces de usuario (UI) interactivas y funcionales usando <b>JavaScript (ES6+)</b> y <b>React.js</b>. Trabajé en componentes reutilizables y gestioné la documentación técnica bajo metodologías ágiles <b>Scrum</b>, lo que me permite participar en todas las etapas de un proyecto.
+    Ingeniero en Sistemas Computacionales con experiencia en el Análisis de Sistemas y Gestión de Requerimientos. Me especializo en la implementación de interfaces de usuario(UI) interactivas y funcionales usando <b>JavaScript (ES6+)</b> y <b>React.js</b>, priorizando la reutilización de componentes y asegurando la calidad del dato para la implementación de modelos analíticos (<b>Python, SQL, Power BI</b>).. Mi dominio de metodologías ágiles (Scrum) me permite participar activamente en la documentación y en la ejecución completa del ciclo de vida del software.
   </p>
 
   <div class="contact-info">
@@ -25,7 +25,7 @@
 <p>Mi enfoque está en el desarrollo Front-End con React, aplicando metodologías ágiles para entregar soluciones escalables.</p>
 
 <div style="text-align: center; margin: 20px 0;">
-    <img class="badge-icon" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vscode,git,github,scrum" alt="Habilidades Técnicas">
+    <img class="badge-icon" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,r,vscode,git,github,scrum" alt="Habilidades Técnicas">
 </div>
 <br>
 
