@@ -3,7 +3,7 @@
 <div class="header">
   <h1>Hola, soy {Alvaro} 👋</h1>
   <p style="font-size: 1.2em; color: #34495e;">
-    Ingeniero en Sistemas Computacionales con experiencia en el Análisis de Sistemas y Gestión de Requerimientos. Me especializo en la implementación de interfaces de usuario(UI) interactivas y funcionales usando <b>JavaScript (ES6+)</b> y <b>React.js</b>, priorizando la reutilización de componentes y asegurando la calidad del dato para la implementación de modelos analíticos (<b>Python, SQL, Power BI</b>).. Mi dominio de metodologías ágiles (Scrum) me permite participar activamente en la documentación y en la ejecución completa del ciclo de vida del software.
+    Ingeniero en Sistemas Computacionales con experiencia en el Análisis de Sistemas y Gestión de Requerimientos. Me especializo en la implementación de soluciones (UX/UI) interactivas y funcionales usando <b>JavaScript (ES6+)</b> y <b>React.js</b>, priorizando la reutilización de componentes y asegurando la calidad del dato para la implementación de modelos analíticos <b>(Python, SQL, Power BI)</b>. Mi dominio de metodologías ágiles (Scrum) me permite participar activamente en la documentación y en la ejecución completa del ciclo de vida del software.
   </p>
 
   <div class="contact-info">
@@ -79,10 +79,12 @@
 
 <p><b>Certificación: Python para Ciencia de Datos, IA y Desarrollo</b> - Coursera, IBM | (en curso) 
   <!--<a href="https://www.freecodecamp.org/certification/alvaro-dp/javascript-algorithms-and-data-structures-v8" target="_blank">Ver Título</a>--></p>
+<p><b>Certificación: Acelerador de Carrera con Power BI + IA</b> - Daxus LATAM | (noviembre, 2025) 
+  <a href="https://drive.google.com/file/d/1OJj6cp7D9Tg8u1fNOwV4VS-5zZUerGPc/view?usp=sharing" target="_blank">Ver Certificado</a></p>
 <p><b>Certificación: JavaScript Algorithms and Data Structures</b> - freeCodeCamp, USA | (junio 2025 - septiembre 2025) 
   <a href="https://www.freecodecamp.org/certification/alvaro-dp/javascript-algorithms-and-data-structures-v8" target="_blank">Ver Certificado</a></p>
- <p><b>Certificación: Introducción a Data Science: Programación Estadística con R</b> - Coursera, Universidad Nacional Autónoma de México | (marzo 2025 - mayo 2025)  
+<p><b>Certificación: Introducción a Data Science: Programación Estadística con R</b> - Coursera, Universidad Nacional Autónoma de México | (marzo 2025 - mayo 2025)  
   <a href="https://www.coursera.org/account/accomplishments/verify/OCPTQDKHJZ7Q" target="_blank">Ver Certificado</a></p>
-  <p><b>Certificación: Mantenimiento y Ensamblaje</b> - O@SIS, FCMF, UG | (febrero, 2023-marzo, 2023) 
+<p><b>Certificación: Mantenimiento y Ensamblaje</b> - O@SIS, FCMF, UG | (febrero, 2023-marzo, 2023) 
   <a href="https://drive.google.com/file/d/124HlFPN73u8tD_uyD-adUa_QTqLS3rZC/view?usp=sharing" target="_blank">Ver Certificado</a></p>
  
