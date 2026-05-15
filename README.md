@@ -30,7 +30,7 @@
 **Sistema de BI** diseñado para centralizar y auditar el rendimiento de campañas digitales multiplataforma.
 * **Logros:** Identificación de campañas con ROAS negativo y reasignación de presupuesto para maximizar rentabilidad.
 * **Tecnologías:** Power BI, DAX, Power Query, Data Modeling.
-* **Demos:** 🔗 [Ver Repositorio](https://github.com/alvaro-dp/Marketing-Analytics-Dashboard) | 🖥️ [Ver Demo del Dashboard](https://tu-link-a-powerbi-o-pdf.com)
+* **Demos:** 🔗 [Ver Repositorio](https://github.com/alvaro-dp/marketing-analytics-dashboard) | 🖥️ [Ver Demo del Dashboard](http://github.com/alvaro-dp/marketing-analytics-dashboard/blob/main/screen/executive_overview.jpg)
 
 ### 🎧 Dashboard de Seguimiento de Servicios (Customer Service)
 Monitoreo de atención al cliente en tiempo real para la detección de cuellos de botella.
