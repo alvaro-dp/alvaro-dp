@@ -4,7 +4,8 @@
 ### Analista de Datos y Procesos | Ingeniero en Sistemas
 
 <p style="font-size: 1.1em; color: #34495e; max-width: 800px;">
-  Ingeniero en Sistemas Computacionales especializado en <b>transformar datos en decisiones estratégicas</b>. Mi enfoque combina la solidez técnica del desarrollo con la inteligencia de negocios, utilizando <b>Excel, SQL, Python y Power BI</b> para crear soluciones que optimizan la rentabilidad y el rendimiento operativo. Experto en automatizar flujos de trabajo y asegurar la integridad del dato en todo su ciclo de vida.
+  Ingeniero en Sistemas con enfoque en el desarrollo, análisis funcional de sistemas y análisis de datos. Tengo experiencia documentando requerimientos funcionales mediante historias de usuario y diagramación de procesos, complementados con bases de desarrollo de software. Además domino herramientas de análisis de datos para desarrollar dashboards que ayuden en la toma de decisiones y dar seguimiento a procesos mediante indicadores de gestión.
+
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-delaa-prudente/)
